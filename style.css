@@ -1,0 +1,145 @@
+img{
+    width: 90px;
+}
+.logo { justify-content: center;
+    display: flex;
+    padding-top: 35px;
+}
+h3{ color:gray;
+      font-size: 25px;
+}
+.head{
+    text-align: center;
+}
+.soon{
+    color:black;
+}
+p{
+    font-size: 20px;
+}
+.body{ text-align: center; 
+    padding-top: 20px; 
+}
+.input{font-size:20px;
+
+}
+.email{height:40px;
+    width: 270px;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    border-color: blueviolet;
+}
+
+.btn{ width: 270px;
+    height:45px;
+    border-radius: 20px 20px 20px 20px;
+    background-color:white;
+    border-color: blueviolet;
+    font-size:20px; 
+  
+}
+.button :hover {
+    background-color:blueviolet;
+    color:white;
+}
+.img2{ width:350px;
+    padding-top: 30px;
+   
+}
+.stat{
+    display:flex;
+    justify-content: center;
+}
+
+@media screen and (min-width: 800px) 
+{
+img{
+    width: 90px;
+}
+.logo { justify-content: center;
+    display: flex;
+    padding-top: 35px;
+}
+h3{ color:gray;
+      font-size: 25px;
+}
+.head{
+    text-align: center;
+}
+.soon{
+    color:black;
+}
+p{
+    font-size: 20px;
+}
+.body{ justify-content: center;
+    display:flex; 
+    align-self: center; 
+    padding-top: 20px; 
+}
+.input{font-size:20px;
+  
+}
+.email{height:35px;
+    width: 200px;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    border-color: blueviolet;
+}
+.btn{ width: 200px;
+    height:40px;
+    border-radius: 20px 20px 20px 20px;
+    background-color:white;
+    border-color: blueviolet;
+    font-size:20px;
+}
+.button{
+    padding-left:20px;
+}
+.button :hover {
+    background-color:blueviolet;
+    color:white;
+}
+.img2{ width:500px;
+    padding-top: 30px;
+   
+}
+.stat{
+    display:flex;
+    justify-content: center;
+}
+}
+.error { font-size: 13px; 
+    color:red;
+    text-align: center;
+    visibility: hidden;
+}
+.show-error{
+visibility:visible;
+}
+.copyright{ text-align: center;
+    color:gray;
+    padding-top: 5px;;
+}
+.social-media{ padding-top: 20px;; 
+font-size: 20px;
+}
+.icon{ align-items: center;
+    display: flex;
+justify-content: center;
+
+ }
+ .icon a{width: 34px;
+    height: 34px;
+     display: flex;
+     text-decoration: none;
+     border-radius: 50%;
+ }
+.social-media li{list-style: none;
+    border-radius: 50%;
+    color: blueviolet;
+}
+
+.icon a:hover{ 
+ color:blue;
+}
