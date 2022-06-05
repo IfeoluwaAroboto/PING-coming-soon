@@ -1,2 +1,2 @@
 # PING-coming-soon
-A smiple project to notify potential consmers of a product lunch
+A simple project to notify potential consumers of a product lunch
