@@ -3,6 +3,7 @@ img{
 }
 .logo { justify-content: center;
     display: flex;
+     Width: 20px;
     height:20px;
     padding-top: 35px;
 }
