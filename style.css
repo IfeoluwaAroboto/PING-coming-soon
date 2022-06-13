@@ -1,6 +1,4 @@
 
-@media only screen and (max-width: 600px)
-{
 img{
     width: 90px;
 }
@@ -54,7 +52,7 @@ p{
     display:flex;
     justify-content: center;
 }
-}
+
 @media screen and (min-width: 800px) 
 {
 img{
